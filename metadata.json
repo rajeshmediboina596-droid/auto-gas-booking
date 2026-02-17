@@ -1,0 +1,9 @@
+
+{
+  "name": "Automatic Gas Monitor",
+  "description": "A smart gas monitoring and management system featuring real-time levels, leak detection alerts, automated ordering, and usage analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
